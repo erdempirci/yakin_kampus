@@ -1,5 +1,5 @@
 # yakin_kampus
 Yakin Kampus kodlarin paylasdigin ortam
 
-#Author
+# Author
 Erdem Pirci
